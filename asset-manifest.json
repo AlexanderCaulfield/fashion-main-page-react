@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/fashion-main-page-react/static/css/main.8cab174c.css",
+    "main.js": "/fashion-main-page-react/static/js/main.ac317924.js",
+    "static/media/promo-img.png": "/fashion-main-page-react/static/media/promo-img.6a90920ffb4499cb9b18.png",
+    "static/media/header-img.png": "/fashion-main-page-react/static/media/header-img.2f5e06dddca4f651b475.png",
+    "static/media/vouchers-img.png": "/fashion-main-page-react/static/media/vouchers-img.61d85ace93e4c1897a58.png",
+    "static/media/promo-01.jpg": "/fashion-main-page-react/static/media/promo-01.b8ce1af516596b5c3999.jpg",
+    "static/media/promo-02.jpg": "/fashion-main-page-react/static/media/promo-02.77409b9a61aa5feb8f76.jpg",
+    "static/media/logo1.svg": "/fashion-main-page-react/static/media/logo1.954f4fd1d4a7a722502e439f55baa4fc.svg",
+    "static/media/cat-03.jpg": "/fashion-main-page-react/static/media/cat-03.9a883047ae069344c36a.jpg",
+    "static/media/cat-02.jpg": "/fashion-main-page-react/static/media/cat-02.4755fc9207cd3ec413c1.jpg",
+    "static/media/cat-01.jpg": "/fashion-main-page-react/static/media/cat-01.b10d9ff50be5b41d73a5.jpg",
+    "static/media/Tapout.png": "/fashion-main-page-react/static/media/Tapout.0fae36cc3a1aa08bb1dc.png",
+    "static/media/Affliction.png": "/fashion-main-page-react/static/media/Affliction.ae292ca42affb7ee8399.png",
+    "static/media/ChromeHearts.png": "/fashion-main-page-react/static/media/ChromeHearts.93131d83d509a0e6871d.png",
+    "static/media/Volchok.png": "/fashion-main-page-react/static/media/Volchok.5fcfb2ec239921537476.png",
+    "static/media/Nikifilini.png": "/fashion-main-page-react/static/media/Nikifilini.a3f55503b0f1668be15d.png",
+    "static/media/inst.svg": "/fashion-main-page-react/static/media/inst.af373b9f4e16cf9e0b9f7a81cbf52cf1.svg",
+    "static/media/tw.svg": "/fashion-main-page-react/static/media/tw.4ec6af2f56a3b484cfe7fb327f783e97.svg",
+    "static/media/in.svg": "/fashion-main-page-react/static/media/in.86f4e848c9a19d138f6eb077b675c136.svg",
+    "index.html": "/fashion-main-page-react/index.html",
+    "static/media/arrow.svg": "/fashion-main-page-react/static/media/arrow.9d4f9d5e31a0e0b90396898109d19746.svg",
+    "static/media/fb.svg": "/fashion-main-page-react/static/media/fb.95b669a1ef88788387e3d514724bb0f9.svg",
+    "static/media/decor-red.svg": "/fashion-main-page-react/static/media/decor-red.cdf440ac74facebdac02.svg",
+    "main.8cab174c.css.map": "/fashion-main-page-react/static/css/main.8cab174c.css.map",
+    "main.ac317924.js.map": "/fashion-main-page-react/static/js/main.ac317924.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cab174c.css",
+    "static/js/main.ac317924.js"
+  ]
+}
