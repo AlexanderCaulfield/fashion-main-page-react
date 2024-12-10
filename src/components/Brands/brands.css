@@ -1,0 +1,10 @@
+.brands {
+    padding: 60px 0 55px;
+    background-color: var(--red);
+}
+
+.brands__list {
+    display: flex;
+    column-gap: 120px;
+    align-items: center;
+}

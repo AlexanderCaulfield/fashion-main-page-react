@@ -1,0 +1,39 @@
+.download {
+    margin-bottom: 220px;
+    margin-left: 161px;
+}
+
+.download__body {
+    display: flex;
+    column-gap: 305px;
+}
+
+.download__left {
+    margin-top: 181px;
+    margin-bottom: 147px;
+}
+
+.download__header {
+    margin-bottom: 41px;
+    max-width: 507px;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 150%;
+    letter-spacing: 0.06em;
+    color: var(--textColor);
+}
+
+.download__text {
+    margin-bottom: 65px;
+    max-width: 419px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 146%;
+    letter-spacing: -0.04em;
+    color: #7c7c7c;
+}
+
+.download__images {
+    display: flex;
+    column-gap: 19px;
+}

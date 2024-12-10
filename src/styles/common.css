@@ -1,0 +1,15 @@
+  :root {
+    --textColor: #000;
+    --red: #ff0000;
+  }
+  
+  body {
+    font-family: 'New Rocker', sans-serif;
+    color: var(--textColor);
+  }
+
+  .container {
+    max-width: 1780px;
+    margin: 0 auto;
+    padding: 0 30px;
+  }
