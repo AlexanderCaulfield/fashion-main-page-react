@@ -1,0 +1,1 @@
+- This project was made for 1920x1080 screens, needs adaptivity in the future
