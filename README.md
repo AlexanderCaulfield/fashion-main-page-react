@@ -1,0 +1,1 @@
+- In this branch, ignore the files with "Deploy to GitHub Pages" commit message
